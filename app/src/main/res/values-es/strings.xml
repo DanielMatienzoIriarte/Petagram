@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Petagram</string>
     <string name="button_text">Entrar</string>
+    <string name="button_text_shop">Ir a la Tienda</string>
 </resources>

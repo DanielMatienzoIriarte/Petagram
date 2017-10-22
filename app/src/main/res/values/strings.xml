@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Petagram</string>
     <string name="button_text">Access</string>
+    <string name="button_text_shop">Go to Store</string>
 </resources>
