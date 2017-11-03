@@ -3,4 +3,6 @@
     <string name="button_text">Access</string>
     <string name="button_text_shop">Go to Store</string>
     <string name="icon_text">Favourite</string>
+    <string name="cardViewTextTitle">Card View Title</string>
+    <string name="cardViewTextDesc">Card View Desc</string>
 </resources>
